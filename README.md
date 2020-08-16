@@ -60,7 +60,7 @@ Pronto.
 
 <h3>Arduino</h3>
 ✔️ Arduino MEGA
-<p>Usamos o MEGA por pela quantidade de portas que seria necessário pela configuração no nosso robô. Verá a seguir.</p>
+<p><br/>Usamos o MEGA por pela quantidade de portas que seria necessário pela configuração no nosso robô. Verá a seguir.</p>
 
 <h3>Sensores</h3>
 ✔️ 1x Barra de sensores IR [8portas]</br>
@@ -74,8 +74,6 @@ Pronto.
  <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/17338976?s=460&u=b5b325738af4dba6d51cbf2e8e335ca389bc493d&v=4" width="100px;" alt="Geovani Castro"/>
  
  <sub><b>Geovani Castro</b></sub>
-</br>
-
 🤔 Qualquer dúvida, 👋🏽 entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Geovani_Castro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-castro-149733104/)](https://www.linkedin.com/in/geovani-castro-149733104/) 
