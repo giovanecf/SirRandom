@@ -38,9 +38,10 @@ Para competição, era necessário implementar algumas funcionalidades. Eis as q
 <p>Quanto a bibliotecas, usamos apenas um: Servo.h, que é inclusa no enviroment 
 do <b>Arduino</b>, independente da IDE que escolha.</p>
 
-<p>Quanto a IDE, naturalmente pode-se usar a oficial em que se pode baixar no <a href="https://www.arduino.cc/en/Main/Software">site oficial</a>, ou pode ser usado o VS Code👌. <br/>
+<p>Quanto a IDE, naturalmente pode-se usar a oficial em que se pode baixar no <a href="https://www.arduino.cc/en/Main/Software">site oficial</a>, ou pode ser usado o VS Code.👌
  <br/>
-Para usa o VS Code, use a extensão criada pela Microsoft: <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">vscode-arduino</a></p>.<br/>
+ <br/>
+Para usa o VS Code, use a extensão criada pela Microsoft: <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">vscode-arduino</a>.</p><br/>
 Ao instalar a extensão -> aperte F1 -> pesquise por "Arduino: Board Config" -> Selecione o arduino a ser utilizado(Ex: UNO, MEGA, ...) -> Pronto. Configurado.<br/>
 Para fazer o upload, procure por ícones da extensão, no canto <b>superior direito</b>.
  
