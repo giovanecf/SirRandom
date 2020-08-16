@@ -60,7 +60,6 @@ Pronto.
 
 <h3>Arduino</h3>
 ✔️ Arduino MEGA
-<p><br/>Usamos o MEGA por pela quantidade de portas que seria necessário pela configuração no nosso robô. Verá a seguir.</p>
 
 <h3>Sensores</h3>
 ✔️ 1x Barra de sensores IR [8portas]</br>
@@ -68,6 +67,7 @@ Pronto.
 
 <h3>Atuadores</h3>
 ✔️ 1x Shield L293D motores CC [6portas]
+✔️ 2x Servos Motores [1porta/cada]
  
 <h2 id="autor">Autor</h2>
 
