@@ -38,7 +38,7 @@ Para competição, era necessário implementar algumas funcionalidades. Eis as q
 <p>Quanto a bibliotecas, usamos apenas um: Servo.h, que é inclusa no enviroment 
 do <b>Arduino</b>, independente da IDE que escolha.</p>
 
-<p>Quanto a IDE, naturalmente pode-se usar a oficial em que se pode baixar no <a href="https://www.arduino.cc/en/Main/Software">site oficial</a>, ou pode ser usado, atualmente ao "editor de texto" da Microsoft chamado VS Code👌. Use a extensão oficial: <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">vscode-arduino</a></p>
+<p>Quanto a IDE, naturalmente pode-se usar a oficial em que se pode baixar no <a href="https://www.arduino.cc/en/Main/Software">site oficial</a>, ou pode ser usado o VS Code👌. Para o ele, use a extensão oficial: <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">vscode-arduino</a></p>
  
 <h2 id="bibliotecas">Bibliotecas</h2>
 
