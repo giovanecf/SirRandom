@@ -1,7 +1,7 @@
 <h1 align="center">SirRandom🤖</h1> 
 <p align="center">
-Sketch para robô seguidor de linha, com a plataforma Arduino. O código foi usado como nas competições **OBR** e **TJR**.
-(Não ganhamos, mas talvez você tenha mais ~~sorte~~ que a gente)
+Sketch para robô seguidor de linha, com a plataforma Arduino. O código foi usado como nas competições <b>OBR</b> e <b>TJR</b>.
+(Não ganhamos, mas talvez você tenha mais <s>sorte</s> que a gente)
 </p>
 
 <p align="center">
