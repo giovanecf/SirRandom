@@ -4,20 +4,21 @@ Sketch para robô seguidor de linha, com a plataforma Arduino. O código foi usa
 (Não ganhamos, mas talvez você tenha mais ~~sorte~~ que a gente)
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=Plataforma&message=Arduino&color=00979D&style=flat&logo=arduino"/>
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=4ac41c&style=flat"/>
 </p>
 
-<p align="center">
+<br/>
+
+<h3 align="center">
  <a href="#status">Status</a> •
  <a href="#features">Features</a> • 
  <a href="#pre-requisitos">Pré-requisitos</a> • 
  <a href="#bibliotecas">Bibliotecas</a> •
- <a href="#hardware">Hardware</a> •
- <a href="#licenca">Licença</a> • 
+ <a href="#hardware">Hardware</a> • 
  <a href="#autor">Autor</a>
-</p>
+</h3>
 
 <h2 id="status">Status</h2>
 
@@ -25,10 +26,12 @@ Sketch para robô seguidor de linha, com a plataforma Arduino. O código foi usa
  
 <h2 id="features">Features</h2>
 
+Para competição, era necessário implementar algumas funcionalidades. Eis as que conseguimos completar, com algumas de bônus(não necessárias diretamente):
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Diferenciar preto, branco e verde;
+- [x] Não se perder em gaps(pedaços de linhas faltantes)
+- [x] Método encapsulado para controle dos motores
+- [x] Debug dos sensores pela Serial.
  
 <h2 id="pre-requisitos">Pré-requisitos</h2>
 
@@ -54,8 +57,6 @@ do <b>Arduino</b>, independente da IDE que escolha.</p>
 
 <h3>Atuadores</h3>
 ✔️ 1x Shield L293D motores CC [6portas]
-
-<h2 id="licenca">Licença</h2>
  
 <h2 id="autor">Autor</h2>
 
@@ -68,3 +69,4 @@ do <b>Arduino</b>, independente da IDE que escolha.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Geovani_Castro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-castro-149733104/)](https://www.linkedin.com/in/geovani-castro-149733104/) 
 [![Gmail Badge](https://img.shields.io/badge/-geovani537@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovani537@gmail.com)](mailto:geovani537@gmail.com)
+
