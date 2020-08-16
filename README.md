@@ -46,8 +46,9 @@ do <b>Arduino</b>, independente da IDE que escolha.
 
 <p>
  Para usa o VS Code, use a extensão criada pela Microsoft: <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">vscode-arduino</a>.<br/>
-Ao instalar a extensão -> aperte F1 -> pesquise por "Arduino: Board Config" -> Selecione o arduino a ser utilizado(Ex: UNO, MEGA, ...) -> Pronto. Configurado.<br/>
-Para fazer o upload, procure por ícones da extensão, no canto <b>superior direito</b>.
+Ao instalar a extensão -> aperte F1 -> pesquise por "Arduino: Board Config" -> Selecione o arduino a ser utilizado(Ex: UNO, MEGA, ...)<br/>
+Para fazer o upload, procure por ícones da extensão, no canto <b>superior direito</b>.<br/>
+Pronto.
 </p>
  
 <h2 id="bibliotecas">Bibliotecas</h2>
