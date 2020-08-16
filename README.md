@@ -22,7 +22,7 @@ Sketch para robô seguidor de linha, com a plataforma Arduino. O código foi usa
 
 <h2 id="status">Status</h2>
 
-<p>🥳 O projeto está concluído!! 🥳</br><small>rev:16/08/20</small></p> 
+<p>🥳 O projeto está concluído!! 🥳<br/><small>rev:16/08/20</small></p> 
  
 <h2 id="features">Features</h2>
 
@@ -62,11 +62,11 @@ Pronto.
 ✔️ Arduino MEGA
 
 <h3>Sensores</h3>
-✔️ 1x Barra de sensores IR [8portas]</br>
+✔️ 1x Barra de sensores IR [8portas]<br/>
 ✔️ 2x Sensores de cor(tsc3200) [5portas/cada]
 
 <h3>Atuadores</h3>
-✔️ 1x Shield L293D motores CC [6portas]
+✔️ 1x Shield L293D motores CC [6portas]<br/>
 ✔️ 2x Servos Motores [1porta/cada]
  
 <h2 id="autor">Autor</h2>
